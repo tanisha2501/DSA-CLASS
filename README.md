@@ -44,10 +44,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanisha2501/DSA-CLASS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0025-reverse-nodes-in-k-group](https://github.com/tanisha2501/DSA-CLASS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanisha2501/DSA-CLASS/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0160-intersection-of-two-linked-lists) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/tanisha2501/DSA-CLASS/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
