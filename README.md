@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanisha2501/DSA-CLASS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/tanisha2501/DSA-CLASS/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/tanisha2501/DSA-CLASS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanisha2501/DSA-CLASS/tree/master/0142-linked-list-cycle-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/tanisha2501/DSA-CLASS/tree/master/0148-sort-list) |
 ## Sorting
 |  |
@@ -83,10 +85,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/tanisha2501/DSA-CLASS/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanisha2501/DSA-CLASS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanisha2501/DSA-CLASS/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
