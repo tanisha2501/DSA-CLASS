@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/tanisha2501/DSA-CLASS/tree/master/0079-word-search) |
+| [0743-network-delay-time](https://github.com/tanisha2501/DSA-CLASS/tree/master/0743-network-delay-time) |
 ## Linked List
 |  |
 | ------- |
@@ -96,8 +97,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0023-merge-k-sorted-lists) |
+| [0743-network-delay-time](https://github.com/tanisha2501/DSA-CLASS/tree/master/0743-network-delay-time) |
 ## Tournament Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tanisha2501/DSA-CLASS/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/tanisha2501/DSA-CLASS/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/tanisha2501/DSA-CLASS/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/tanisha2501/DSA-CLASS/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/tanisha2501/DSA-CLASS/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
